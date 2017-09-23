@@ -1,13 +1,13 @@
 {
   "name": "hello",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "test": "NODE_ENV=test node node_modules/lab/bin/lab -v -L -C -D"
   },
-  "author": "Brian Hogan",
+  "author": "Bxxxn Hogan",
   "license": "MIT",
   "dependencies": {
     "hapi": "^16.4.1"
